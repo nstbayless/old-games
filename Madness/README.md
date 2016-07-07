@@ -10,11 +10,17 @@ The save file does not persist when the game is closed. Be warned; it must be pl
 
 I was learning Japanese around this time, and for some reason thought that some hastily-drawn kanji would constitute a good title screen.
 
+Feature added: 2016-07: saving and loading between sessions is now possible by pressing F1 and F2 to save and load respectively.
+
 ### Controls ###
 
 `Up - Jump`
 
 `Left/Right - Move`
+
+`F1 - save`
+
+`F2 - load`
 
 ### Screenshot ###
 
