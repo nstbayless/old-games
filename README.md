@@ -4,6 +4,6 @@ This is a repository of old games I made years ago (2007-2011). Some of them are
 
 Certainly for all of these games, the source code is nigh unreadable. Seriously, it makes no sense.
 
-Currently, all uploaded games were made with Game Maker 6.0 or 7.1. The source code has only been uploaded for *Mazed* so far.
+Currently, all uploaded games were made with Game Maker 6.0 or 7.1.
 
 All compiled executables run correctly under wine.
